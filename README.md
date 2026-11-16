@@ -48,9 +48,9 @@ Three independent signals catch three different failures:
 ## Quick start
 
 ```bash
-git clone https://github.com/waltermitas/claude-agent-fleet-monitor.git
+git clone https://github.com/waltermitas/ai-agent-fleet-monitor.git
 mkdir -p ~/.claude/agent-manager
-cp claude-agent-fleet-monitor/scripts/*.py ~/.claude/agent-manager/
+cp ai-agent-fleet-monitor/scripts/*.py ~/.claude/agent-manager/
 ```
 
 **1. Ping from every agent.** Put this at the top of each scheduled task's prompt:
